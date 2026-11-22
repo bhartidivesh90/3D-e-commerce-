@@ -1,0 +1,6 @@
+{
+  "name": "TECHVERSE - 3D Electronics E-Commerce",
+  "description": "Interactive 3D electronics e-commerce platform with real-time Three.js 3D models, exploded views, product comparisons, cart, wishlist, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
